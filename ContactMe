@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+
+<head>
+  <meta <charset="utf-8">
+  <title> Contact Me </title>
+</head>
+
+<body>
+<p> Phone: 320-237-3471</p>
+<p>Email: kunzbrian@outlook.com</p>
+
+<hr>
+
+<form class="" action="mailto:kunzbrian@outlook.com" method="post">
+  <label> Your name:</label>
+  <input type="text" name="YourName" value=""></input> <br>
+<label> Your email:</label>
+<input type="email" name="YourEmail"></input><br><br>
+<label>Message:</label> </br>
+<textarea name="yourMessage" rows="10" cols="30"></textarea><br>
+<input type="submit"></input>
+</form>
+
+</body>

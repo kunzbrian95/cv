@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+
+<head>
+  <meta <charset="utf-8">
+  <title>Brian's CVC </title>
+</head>
+<header>
+
+<table cellspacing="20">
+<thead></thead>
+<tbod>
+  <tr>
+    <td> <img src="images/brian.jpg" alt="picture of Brian"
+    height="120px" width="120px"> </td>
+
+<td> <h1> Brian Kunz</h1> <p>Wanna be coder and bartender</p>
+ </td>
+
+
+
+</tr>
+
+</table>
+
+
+</tbod>
+<tfoot></tfoot>
+</tab>
+
+
+<p></p>
+<p>
+
+</p>
+<hr></hr>
+  </header>
+
+
+
+
+
+
+<body>
+<h2> My favorite books</h2>
+<ul>
+  <li>Moon Walking with Einstein</li>
+  <li>38 Strategies of War</li>
+</ul>
+<h3> work expierence</h3>
+
+
+<table border="1">
+  <thead>
+<tr>
+  <th> Dates</th>
+  <th> Work</th>
+</tr>
+
+  </thead>
+<tbody>
+<tr>
+  <td>
+    2019
+  </td>
+  <td>
+    Baldamar
+  </td>
+  </tr>
+  <tr>
+  <td>
+    2015-2020
+
+  </td>
+  <td>
+    Brit's Pub
+  </td>
+</tr>
+</tbody>
+
+<tfo>
+
+</tfo>
+
+</table>
+
+<h3> Skills</h3>
+<table border="1">
+
+<tr>
+<td>HTML ⭐⭐</td>
+<td> Reading ⭐⭐⭐⭐⭐</td>
+</tr>
+<tr>
+<td>CSS ⭐⭐⭐</td>
+<td>Debating ⭐⭐⭐⭐⭐</td>
+</tr>
+</table>
+
+
+<hr>
+</body>
+
+
+
+
+
+<footer>
+
+<a href="contactme.html">contact-me</a>
+<a href="hobbies.html">My-Hobbies</a>
+</footer>
